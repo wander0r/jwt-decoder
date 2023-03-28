@@ -6,3 +6,5 @@ Usage
 
 1. chmod +x decode.sh
 2. ./decode.sh < input.txt
+
+Replace "input.txt" with the path to your input file
