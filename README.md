@@ -5,4 +5,4 @@ This bash script will take a text file with JWT or Base64 encoded strings and wi
 Usage
 
 1. chmod +x decode.sh
-2. ./decode.sh > input.txt
+2. ./decode.sh < input.txt
